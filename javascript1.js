@@ -24,7 +24,7 @@ function balancedParentheses(str) {
     return true;
 }
 console.log(balancedParentheses("{[]()}" ));
-console.log(balancedParentheses("{[(])}"));
+console.log(balancedParentheses("{[(]))}"));
 console.log(balancedParentheses("{[}"));
 
 
